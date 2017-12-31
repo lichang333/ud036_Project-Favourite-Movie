@@ -31,3 +31,8 @@ Type following command to your terminal to run this program:
 ### Resources
 - Google Google Python Style Guide: <https://google.github.io/styleguide/pyguide.html>
 - The Python Language Reference: <https://docs.python.org/2/reference/index.html>
+
+### License
+
+The content of this repository is licensed under a
+[Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
