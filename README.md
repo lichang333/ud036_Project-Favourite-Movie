@@ -4,6 +4,9 @@
 
 This project is to build a server-side website to store a list of the favorite movies, including box art imgagery and a movie trailer URL. It will use the code to generate a static web page to allow visitors to browse movies and watch the trailers.
 
+Inline-style: 
+![alt text](https://github.com/lichang333/ud036_Project-Favourite-Movie/blob/master/preview.png "Logo Title Text 1")
+
 ## How to run this program:
 
 
